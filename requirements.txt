@@ -1,0 +1,11 @@
+numpy>=2.0.2
+matplotlib>=3.4.2
+pydicom==2.2.1
+pillow>=11.0.0
+tqdm>=4.62.1
+minio==7.0.0
+pytest==6.2.5
+fastapi==0.109.1
+uvicorn==0.15.0
+python-multipart==0.0.7
+pydantic>=1.10.19
